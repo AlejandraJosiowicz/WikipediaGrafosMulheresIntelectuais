@@ -1,0 +1,98 @@
+MATERIAL SUPLEMENTARIO
+Lista de intelectuales mujeres latinoamericanas — selección inicial
+
+Total: 64 nombres.
+Analizadas: 49 — las que contaban con artículo en
+Wikipedia en portugués al momento de la extracción de datos
+(13 de agosto de 2025, con etapas de limpieza a lo largo de septiembre).
+Excluidas del análisis: 15.
+
+------------------------------------------------------------------------
+
+NOMBRE                            ANALIZADA
+-------------------------------------------
+Alejandra Pizarnik                sí
+Alfonsina Storni                  sí
+Alicia Moreau de Justo            sí
+Amalia de Castillo Ledón          no
+Ángeles Mastretta                 no
+Beatriz Nascimento                sí
+Beatriz Sarlo                     sí
+Bertha Lutz                       sí
+Blanca Luz Brum                   sí
+Camila Henríquez Ureña            sí
+Carmen Lyra                       no
+Carmen Mondragón (Nahui Olin)     sí
+Carolina Maria de Jesus           sí
+Cecília Meireles                  sí
+Clarice Lispector                 sí
+Clorinda Matto de Turner          sí
+Condesa de Merlín                 no
+Delmira Agustini                  sí
+Eduarda Mansilla                  no
+Elena Poniatowska                 sí
+Elvira López                      sí
+Frida Kahlo                       sí
+Gabriela Mistral                  sí
+Gilda de Mello e Souza            sí
+Giselda Zani                      no
+Heloísa Teixeira                  sí
+Henriqueta Lisboa                 sí
+Idea Vilariño                     sí
+Javiera Carrera                   no
+Juana de Ibarbourou               sí
+Juana Manuela Gorriti             no
+Juana Paula Manso de Noronha      sí
+Júlia Lopes de Almeida            sí
+Julieta Lanteri                   sí
+Lélia Gonzalez                    sí
+Lydia Cabrera                     sí
+Lygia Clark                       sí
+Lygia Fagundes Telles             sí
+Magdalena Chocano                 no
+Margo Glantz                      sí
+Maria Isaura Pereira de Queiroz   sí
+María Lugones                     sí
+María Rosa Lida de Malkiel        no
+María Rosa Oliver                 sí
+Marosa di Giorgio                 no
+Mirta Aguirre                     no
+Myrthes Gomes de Campos           sí
+Nellie Campobello                 sí
+Neusa Santos Souza                sí
+Norah Borges                      sí
+Norah Lange                       sí
+Nydia Lamarque                    no
+Paulina Luisi                     sí
+Rosa Guerra                       no
+Rosario Castellanos               sí
+Rosario Ferré                     no
+Silvina Ocampo                    sí
+Sylvia Molloy                     sí
+Tarsila do Amaral                 sí
+Teresa de la Parra                sí
+Tina Modotti                      sí
+Victoria Ocampo                   sí
+Virgínia Leone Bicudo             sí
+Zélia Gattai                      sí
+
+------------------------------------------------------------------------
+
+EXCLUIDAS DEL ANÁLISIS (15)
+
+  Amalia de Castillo Ledón
+  Ángeles Mastretta
+  Carmen Lyra
+  Condesa de Merlín
+  Eduarda Mansilla
+  Giselda Zani
+  Javiera Carrera
+  Juana Manuela Gorriti
+  Magdalena Chocano
+  María Rosa Lida de Malkiel
+  Marosa di Giorgio
+  Mirta Aguirre
+  Nydia Lamarque
+  Rosa Guerra
+  Rosario Ferré
+
